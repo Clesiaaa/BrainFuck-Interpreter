@@ -1,0 +1,1 @@
+/Users/szymek/Desktop/project/brainfuck/target/release/brainfuck: /Users/szymek/Desktop/project/brainfuck/src/main.rs /Users/szymek/Desktop/project/brainfuck/src/parser.rs /Users/szymek/Desktop/project/brainfuck/src/tokenizer.rs /Users/szymek/Desktop/project/brainfuck/src/virtual_machine.rs
