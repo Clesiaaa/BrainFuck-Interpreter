@@ -32,7 +32,7 @@ cargo --version
 
 ```bash
 git clone https://github.com/Clesiaaa/BrainFuck-Interpreter
-cd brainfuck
+cd BrainFuck-Interpreter
 cargo build --release
 ```
 
